@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Hi, this is Tridib.
+I will be working on the Blog Application of the CloudOPS Website.
 
 First, run the development server:
 
